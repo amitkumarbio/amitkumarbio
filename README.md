@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amit kumar 
-- 👀 I’m interested in development with PHP, Laravel, NodeJS MYsql and devOps CI/CD etc
-- 🌱 I’m currently learning much more about devOps 
+- 👀 I’m interested in development with PHP, Laravel, Codeigniter, JavaScript, Jquery, NodeJS, MySQL and devOps CI/CD etc
+- 🌱 I’m currently learning much more about  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
